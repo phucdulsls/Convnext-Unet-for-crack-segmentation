@@ -6,7 +6,7 @@ Semantic segmentation of pavement cracks on the Crack500 dataset using a ConvNeX
 
 ## Overview
 
-This project implements a deep learning pipeline for pavement crack segmentation. The proposed model combines the feature extraction capability of ConvNeXtV2 with the precise localization ability of Residual U-Net to improve segmentation accuracy.
+This project implements a deep learning pipeline for pavement crack segmentation. The proposed model combines the feature extraction capability of ConvNeXtV2 with the precise localization ability o[...]
 
 For a detailed explanation of the methodology, experiments, implementation, and evaluation, please refer to the project report in the **docs/** folder.
 
@@ -56,6 +56,14 @@ For a detailed explanation of the methodology, experiments, implementation, and 
 
 ---
 
+## Screenshot
+
+<p align="center">
+  <img src="Screenshot 2026-07-07 222433.png" width="900">
+</p>
+
+---
+
 ## Project Structure
 
 ```text
@@ -67,3 +75,5 @@ For a detailed explanation of the methodology, experiments, implementation, and 
 ├── train.py
 ├── predict.py
 └── README.md
+
+```
