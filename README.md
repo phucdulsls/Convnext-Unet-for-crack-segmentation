@@ -40,22 +40,6 @@ For a detailed explanation of the methodology, experiments, implementation, and 
 
 ---
 
-## Demo
-
-<p align="center">
-  <img src="assets/demo.gif" width="900">
-</p>
-
----
-
-## Example Predictions
-
-<p align="center">
-  <img src="assets/prediction_examples.png" width="900">
-</p>
-
----
-
 ## Screenshot
 
 <p align="center">
