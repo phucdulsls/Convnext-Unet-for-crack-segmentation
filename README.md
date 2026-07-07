@@ -63,17 +63,8 @@ For a detailed explanation of the methodology, experiments, implementation, and 
 </p>
 
 ---
-
-## Project Structure
-
-```text
-.
-├── assets/
-├── docs/
-│   └── Final_Report.pdf
-├── models/
-├── train.py
-├── predict.py
-└── README.md
+## How to Run
+python train.py
+python predict.py
 
 ```
